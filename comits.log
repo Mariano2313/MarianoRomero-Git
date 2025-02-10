@@ -1,0 +1,123 @@
+commit aa46f803dc2df59037ce455f41e5c3f54cbfef3d
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Fri Feb 7 16:15:06 2025 -0300
+
+    Agregando 3 parrafos
+
+commit 855c7f45f1b4fe5d02335f0c6b027f9f358baf86
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Fri Feb 7 15:56:25 2025 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 31e0ea33e372fada72ad784a4134b1f837005f09
+Merge: 2206772 890de2e
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Fri Feb 7 15:50:42 2025 -0300
+
+    Merge branch 'main' of https://github.com/Mariano2313/MarianoRomero-Git
+
+commit 2206772acd385b21b977058fc9c7c0fb8584588e
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Fri Feb 7 15:49:00 2025 -0300
+
+    Agregando estaciones del año con fecha de inicio
+
+commit b71d47e9031c62123b68e042a992be8dd43eeb1d
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Fri Feb 7 15:44:02 2025 -0300
+
+    Agregando estaciones del año
+
+commit 85fe2e028eaa0718680d0ba6e476bf80678b32e1
+Merge: e0657c7 c627563
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Fri Feb 7 15:16:56 2025 -0300
+
+    Reolviendo conflictos en el merge main/html en el documento index.html
+
+commit 890de2ed98d65e8b2eef5ed11fa94d728c2d6321
+Merge: e0657c7 c627563
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Fri Feb 7 15:16:56 2025 -0300
+
+    Reolviendo conflictos en el merge main/html en el documento index.html
+
+commit c6275638170aec3d4366be85d32b419ff3b13c3f
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Thu Feb 6 15:52:49 2025 -0300
+
+    Agregando index.js al archivo.html
+
+commit e0657c739cc0fb42a04d62a4179a0382cc487889
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Thu Feb 6 15:47:52 2025 -0300
+
+    Cambios en el html
+
+commit 7b43235e62b087c12537159f682901a09245b1e4
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Thu Feb 6 15:35:03 2025 -0300
+
+    Agregando style.css al archivo.html
+
+commit a3c4dd6c7b4cd40848d2c8af946e2f7ca6286eaf
+Merge: 70ef53a b9e7b5c
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Thu Feb 6 15:21:56 2025 -0300
+
+    Merge branch 'js'
+
+commit b9e7b5cbe4af53c5c6c62cdba4020d793b204173
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Thu Feb 6 15:08:38 2025 -0300
+
+    Creando Index.js
+
+commit 70ef53abd9709af374486b1dbf270aac91c7ee29
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Thu Feb 6 15:04:17 2025 -0300
+
+    Creando style.css
+
+commit 00302f3b7cb39025f9ae10ed1a51da0b8e9bf3ec
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Thu Feb 6 14:57:17 2025 -0300
+
+    Creando mi archivo.html
+
+commit 0df9c345dd505e3cb133b837c75d67b1237eb889
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Thu Feb 6 14:49:26 2025 -0300
+
+    Agregando un Proyecto que fue clonado del repoitorio de un amigo (Lautaro Alonso)
+
+commit 7f68b0b7bcb7ce4efd994d7f46b3b10958ebf7ba
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Thu Feb 6 14:12:01 2025 -0300
+
+    Ignorando los archivos.exe
+
+commit bf92599dc2a2814fa7aebef9bab1200583a9f5d3
+Author: Mariano Ezequiel Romero <143048131+Mariano2313@users.noreply.github.com>
+Date:   Thu Feb 6 13:41:56 2025 -0300
+
+    Create LICENSE del repositorio
+
+commit f44c92848e14b28ab07cdfc06e386429abbb9455
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Wed Feb 5 19:58:58 2025 -0300
+
+    Agregando mas contenido al README.md
+
+commit 98b7cca4ed3db48afbd4c34495824f5b9bcd55a8
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Wed Feb 5 03:47:50 2025 -0300
+
+    Agregando contenido inicial al README
+
+commit 2f3390e3caa47e5dfd048fc6190113e9c3b81694
+Author: Mariano Ezequiel Romero <mariano95romero@gmail.com>
+Date:   Wed Feb 5 03:17:55 2025 -0300
+
+    Primer commit

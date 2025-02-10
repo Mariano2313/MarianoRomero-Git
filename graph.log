@@ -1,0 +1,30 @@
+* aa46f80 Agregando 3 parrafos
+* 855c7f4 Agregando estaciones del año con fecha de inicio
+*   31e0ea3 Merge branch 'main' of https://github.com/Mariano2313/MarianoRomero-Git
+|\  
+| *   890de2e Reolviendo conflictos en el merge main/html en el documento index.html
+| |\  
+* | | 2206772 Agregando estaciones del año con fecha de inicio
+* | | b71d47e Agregando estaciones del año
+* | |   85fe2e0 Reolviendo conflictos en el merge main/html en el documento index.html
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * c627563 Agregando index.js al archivo.html
+* | e0657c7 Cambios en el html
+* | 7b43235 Agregando style.css al archivo.html
+* |   a3c4dd6 Merge branch 'js'
+|\ \  
+| * | b9e7b5c Creando Index.js
+* | | 70ef53a Creando style.css
+| |/  
+|/|   
+* | 00302f3 Creando mi archivo.html
+|/  
+* 0df9c34 Agregando un Proyecto que fue clonado del repoitorio de un amigo (Lautaro Alonso)
+* 7f68b0b Ignorando los archivos.exe
+* bf92599 Create LICENSE del repositorio
+* f44c928 Agregando mas contenido al README.md
+* 98b7cca Agregando contenido inicial al README
+* 2f3390e Primer commit
