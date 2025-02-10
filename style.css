@@ -1,5 +1,17 @@
 html{
-    background-color: aquamarine;
+    background-color: black;
     color: cadetblue;
     text-align: center;
+    font-family: sans-serif;
+}
+a{
+    color: orange;
+}
+a:hover{
+    color: chocolate;
+}
+
+img{
+   max-width: 60%;
+
 }
